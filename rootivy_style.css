@@ -1,0 +1,101 @@
+
+.jumbotron{
+	  background-size: cover;
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("img/kido.jpeg");
+  background-position: center center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+}
+
+h1{
+	font-family: cursive;
+	font-weight:bolder;
+	color:#ff8;
+}
+
+p{
+	font-family: sans-serif;
+	font-size: 20px;
+	color:white;
+}
+
+img{
+	height: 70%;
+	max-width: 70%;
+}
+
+/*section one */
+.div_one{
+	min-height: 200px;
+	align-items:center;
+
+}
+
+.inner_one p{
+	color:#333;
+}
+
+.inner_one{
+	align-items:center;
+	text-align: center;
+}
+
+.naira{
+	color:forestgreen;
+	font-size: 50px;
+	font-weight: 700;
+}
+
+h5{
+
+}
+
+h2{
+font-size: 50px;
+font-weight: 700;
+}
+
+/*section two*/
+
+.div_two{
+	min-height: 200px;
+	
+
+}
+
+.inner_two {
+	
+	text-align: center;
+}
+
+.inner_two h6{
+	
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.inner_two img{
+	
+	height: 70%;
+	max-width: 80%;
+}
+
+
+#thickset{
+	
+	max-width: 50%
+}
+
+/*footer*/
+
+footer{
+	background-color: #ff8;
+	min-height: 200px;
+	align-items: center;
+
+}
+
+
+
